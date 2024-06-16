@@ -1,0 +1,1 @@
+mprintf('%s', 'Hello, world!')
